@@ -41,7 +41,10 @@ Sou entusiasta de cibersegurança e tecnologia, com especial interesse em IA, pr
 
 ## 🚧 Projetos em Destaque
 
-- **Homelab de Cibersegurança**  
+- **Github**
+  Guia Detalhado: Como Criar o Teu Perfil e Portefólio no GitHub.  
+  [Ver projeto](https://github.com/DanielDSRuivinho/Github)
+- **Homelab de Cibersegurança:**
   Laboratório doméstico para testes de segurança, simulação de ataques, análise de logs e resposta a incidentes.  
   [Ver projeto](#) <!-- Substituir pelo link real quando disponível -->
 
