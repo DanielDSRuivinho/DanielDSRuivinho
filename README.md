@@ -79,7 +79,6 @@ Sou entusiasta de cibersegurança e tecnologia, com especial interesse em IA, pr
 ## 📈 Estatísticas de Atividade
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldsruivinho&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsruivinho&layout=compact&theme=radical)
 
 ---
 
